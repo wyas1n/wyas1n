@@ -1,0 +1,12 @@
+Bir örnek: 2 saatlik bir ses dosyasının
+işlenmesi yaklaşık 25 dakika sürdü, 2 kök ve 
+işlem kodeği olarak M4A kullanıldı. 
+Dosya başlangıçta WMA biçiminde 31 MB idi ve 
+her kök ('vokaller', vb.) WMA biçiminde 130,6 
+MB'lık bir dosya olarak döndürüldü. Sonuç olarak 
+yaklaşık 260 MB disk alanı aldı (sistem önbelleği 
+temizlendikten sonra). Ancak işleme sırasında betik 
+yaklaşık 800 MB disk alanı        
+tüketti.
+Başka bir durumda, aynı ayarlarla 
+1 saatlik bir klibin işlenmesi 15 dakika sürdü.
