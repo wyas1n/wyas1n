@@ -1,0 +1,5 @@
+bir ses dosyasından farklı sesleri/enstrümanları (saplar olarak adlandırılır) çıkarmak için AI/ML kullanan bir kütüphanedir. Bir şarkıdaki vokalleri ve enstrümanları ayırmak için kullanılması amaçlanmıştır. Ancak, bir ses kaydındaki (örneğin bir ders) gürültülü bir arka plandan yalnızca sesi çıkarmak için de kullanılabilir.
+
+spleeter-wrapper, herhangi bir uzunluktaki ses dosyalarıyla ve sınırlı RAM ve HDD alanıyla Spleeter'ı kullanmak için bir bash kabuk/terminal betiğidir. Bu özellikle uzun (1-2 saat) ses kayıtları için önemlidir. Ayrıca, HDD kullanımını kayıplı/kayıpsız kodlamaya karşı kontrol etmek için işleme için hangi kodeğin kullanılacağına karar verme seçeneği sunar.
+
+spleeter-wrapper.shresmi spleeter deposunda yapılan bir tartışmadaseparate-overlap.sh ortaya çıktı ve daha önce . olarak adlandırılıyordu .
